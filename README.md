@@ -1,4 +1,4 @@
-Bem-vindo ao meu projeto "Galeria de Arte Digital". A ideia por trás dele era criar algo divertido e que me permitisse praticar a comunicação do Python com a internet. Este pequeno programa se conecta à API do Metropolitan Museum of Art e, com alguns comandos simples, busca uma obra de arte aleatória e a exibe na tela.
+Bem-vindo ao meu projeto "Galeria de Arte Digital". A ideia por trás dele era criar algo divertido e que me permitisse praticar a comunicação do Python com a internet. O programa se conecta à API do Metropolitan Museum of Art e busca uma obra de arte aleatória e a exibe na sua tela.
 
 O projeto demonstra meu conhecimento em:
 Fazer requisições HTTP para buscar dados de serviços externos.
